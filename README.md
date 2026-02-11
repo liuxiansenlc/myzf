@@ -32,7 +32,8 @@
 如果你的教务系统页面与下图所示的页面**完全一致**或**几乎一致**，则代表你可以使用本项目。
 
 <img src="https://github.com/liuxiansenlc/myzf/blob/main/img/9.png" style="zoom:60%;" />
-
+<img src="https://github.com/liuxiansenlc/myzf/blob/main/img/10.png" style="zoom:60%;" />
+<img src="https://github.com/liuxiansenlc/myzf/blob/main/img/11.png" style="zoom:60%;" />
 ## 宝塔面板部署教程 (推荐)
 
 如果您使用的是宝塔面板，可以按照以下步骤快速部署：
