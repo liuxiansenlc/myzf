@@ -1,5 +1,0 @@
-requests
-rsa
-pyquery
-flask
-pymysql
