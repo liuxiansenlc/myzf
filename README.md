@@ -1,6 +1,6 @@
 # 正方教务管理系统成绩推送 (Web 版)
 
-<img src="https://raw.githubusercontent.com/liuxiansenlc/myzf/tree/main/img/7.jpg" style="zoom:60%;" />
+<img src="https://github.com/liuxiansenlc/myzf/blob/main/img/7.jpg?raw=true" style="zoom:60%;" />
 
 ## 简介
 
