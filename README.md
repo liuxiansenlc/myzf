@@ -150,5 +150,5 @@ nohup python task_scheduler.py > scheduler.log 2>&1 &
 
 ## 特别感谢
 
-*   原作者: [NianBroken](https://github.com/NianBroken)
+*   特别感谢: [NianBroken](https://github.com/NianBroken)
 *   API 支持: [openschoolcn/zfn_api](https://github.com/openschoolcn/zfn_api)
